@@ -1,0 +1,10 @@
+Program Plan
+
+Functions:
+displayGameDetails() function displays the rules of the game
+playGame() function finds and displays the winner of Rock, Paper, Scissors
+computerChoice() function that gets and returns the computer's choice
+getUserChoice() function that gets and returns the choice of the user
+getChoiceAsString() function returns users choice as a string
+displayChoices() function displays the computer choice as well as the user's choice
+findWinner() function determines the winner of the game

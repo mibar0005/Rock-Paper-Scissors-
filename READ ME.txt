@@ -1,0 +1,14 @@
+This is the classic game Rock, Paper, Scissors.
+For this game you will play against the computer.
+The program contains three random choices 1 though 3.
+1 is rock.
+2 is paper.
+3 is scissors.
+The user should enter their choice on they keyboard. 
+The computer will display its choice.
+Classic Rules apply:
+Rock smashes scissors.
+Scissors cuts papers.
+Paper covers rock.
+In case of a drawing the same choice, the game must be again.
+Have fun!
